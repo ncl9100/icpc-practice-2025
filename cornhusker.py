@@ -1,3 +1,5 @@
+#ICPC 2023 GNY Question A
+
 import sys
 
 input = sys.stdin.readline
